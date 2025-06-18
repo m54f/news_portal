@@ -1,8 +1,23 @@
+<h1 align="center">NEWS_PORTAL</h1>
 
-# 📄 Portal Berita - Dokumentasi Proyek
+<p align="center"><em>Transforming News into Impactful Stories Daily</em></p>
 
-## 📌 Deskripsi Proyek
-Portal Berita adalah aplikasi berbasis web yang memungkinkan pengguna untuk membaca artikel berita yang dipublikasikan oleh admin. Sistem ini mendukung kategori berita, manajemen artikel, dan login admin untuk mengelola konten.
+<p align="center">
+  <img src="https://img.shields.io/badge/last%20commit-last%20monday-bluegray" />
+  <img src="https://img.shields.io/badge/javascript-57.7%25-blue" />
+  <img src="https://img.shields.io/badge/languages-6-blue" />
+</p>
+
+---
+
+### 📌 Built with the tools and technologies:
+
+<p>
+  <img src="https://img.shields.io/badge/JSON-black?logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+</p>
 
 ## 🗂️ Struktur Proyek
 
