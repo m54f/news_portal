@@ -80,7 +80,7 @@ if (mysqli_connect_errno()) {
 ```
 
 ### 5. Akses Portal
-- **User Portal**: `http://localhost/newsportal/index.php`
+- **User Portal**: `http://localhost/newsportal/index.php` ---> `https://pojectwebnews.rf.gd/?i=1`
 - **Admin Panel**: `http://localhost/newsportal/admin/`
 
 ## 🔐 Login Admin
